@@ -1,4 +1,4 @@
 normalize.less
 ==============
 
-Normalize.css converted to a LESS file
+Normalize.css converted to a LESS file. Only comment type is changed, so less minification is effective. Normalize.css version v2.1.0.
